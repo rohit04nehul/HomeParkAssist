@@ -49,9 +49,4 @@ Install dependencies
 
 
 
-## Authors
-
-
-- [@Rohit Nehul](https://github.com/rohit04nehul)
-
 <img src="logo.png" alt="logo" style="width:20%;">
