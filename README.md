@@ -23,7 +23,7 @@ The Home Zone Park Assist System is a smart parking assistance solution leveragi
 Clone the project
 
 ```bash
-  git clone https://github.com/Harshawardhan2209/BGSW-hackathon-project-Home-Zone-Park-Assist
+  git clone 
 ```
 
 Go to the project directory
@@ -54,6 +54,4 @@ Install dependencies
 
 - [@Rohit Nehul](https://github.com/rohit04nehul)
 
-- [@Harsh Patare](https://www.github.com/Harshawardhan2209)
-- 
 <img src="logo.png" alt="logo" style="width:20%;">
